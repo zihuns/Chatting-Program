@@ -1,8 +1,12 @@
 # [Chatting-Program]
 
-![kakao.jpg](/image/kakao.jpg)
+<div align=center>
+    
+![kakao.jpg](/image/kakao(mini).jpg)
 
-- JAVA 언어와 TCP 소켓통신을 이용한 채팅프로그램입니다.
+</div>
+
+> JAVA 언어와 TCP 소켓통신을 이용한 채팅프로그램입니다. (이미지 출처 : 카카오톡 공식 홈페이지)
 
 ## 팀원
 
